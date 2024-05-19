@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seershika's Calci</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="calculator-container">
+        <h1>Seershika's Calci</h1>
+        <div class="calculator">
+            <div class="display">
+                <input type="text" id="result" value="" disabled/>
+            </div>
+            <div class="buttons">
+                <button onclick="clearDisplay()">C</button>
+                <button onclick="deleteChar()">DEL</button>
+                <button onclick="append('%')">%</button>
+                <button onclick="append('/')">/</button>
+                <button onclick="append('7')">7</button>
+                <button onclick="append('8')">8</button>
+                <button onclick="append('9')">9</button>
+                <button onclick="append('*')">*</button>
+                <button onclick="append('4')">4</button>
+                <button onclick="append('5')">5</button>
+                <button onclick="append('6')">6</button>
+                <button onclick="append('-')">-</button>
+                <button onclick="append('1')">1</button>
+                <button onclick="append('2')">2</button>
+                <button onclick="append('3')">3</button>
+                <button onclick="append('+')">+</button>
+                <button onclick="append('0')">0</button>
+                <button onclick="append('.')">.</button>
+                <button onclick="calculate()">=</button>
+                <button onclick="sqrt()">√</button>
+                <button onclick="square()">x²</button>
+                <button onclick="inverse()">1/x</button>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seershika's Calci</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="calculator-container">
+        <h1>Seershika's Calci</h1>
+        <div class="calculator">
+            <div class="display">
+                <input type="text" id="result" value="" disabled/>
+            </div>
+            <div class="buttons">
+                <button onclick="clearDisplay()">C</button>
+                <button onclick="deleteChar()">DEL</button>
+                <button onclick="append('%')">%</button>
+                <button onclick="append('/')">/</button>
+                <button onclick="append('7')">7</button>
+                <button onclick="append('8')">8</button>
+                <button onclick="append('9')">9</button>
+                <button onclick="append('*')">*</button>
+                <button onclick="append('4')">4</button>
+                <button onclick="append('5')">5</button>
+                <button onclick="append('6')">6</button>
+                <button onclick="append('-')">-</button>
+                <button onclick="append('1')">1</button>
+                <button onclick="append('2')">2</button>
+                <button onclick="append('3')">3</button>
+                <button onclick="append('+')">+</button>
+                <button onclick="append('0')">0</button>
+                <button onclick="append('.')">.</button>
+                <button onclick="calculate()">=</button>
+                <button onclick="sqrt()">√</button>
+                <button onclick="square()">x²</button>
+                <button onclick="inverse()">1/x</button>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seershika's Calci</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="calculator-container">
+        <h1>Seershika's Calci</h1>
+        <div class="calculator">
+            <div class="display">
+                <input type="text" id="result" value="" disabled/>
+            </div>
+            <div class="buttons">
+                <button onclick="clearDisplay()">C</button>
+                <button onclick="deleteChar()">DEL</button>
+                <button onclick="append('%')">%</button>
+                <button onclick="append('/')">/</button>
+                <button onclick="append('7')">7</button>
+                <button onclick="append('8')">8</button>
+                <button onclick="append('9')">9</button>
+                <button onclick="append('*')">*</button>
+                <button onclick="append('4')">4</button>
+                <button onclick="append('5')">5</button>
+                <button onclick="append('6')">6</button>
+                <button onclick="append('-')">-</button>
+                <button onclick="append('1')">1</button>
+                <button onclick="append('2')">2</button>
+                <button onclick="append('3')">3</button>
+                <button onclick="append('+')">+</button>
+                <button onclick="append('0')">0</button>
+                <button onclick="append('.')">.</button>
+                <button onclick="calculate()">=</button>
+                <button onclick="sqrt()">√</button>
+                <button onclick="square()">x²</button>
+                <button onclick="inverse()">1/x</button>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seershika's Calci</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="calculator-container">
+        <h1>Seershika's Calci</h1>
+        <div class="calculator">
+            <div class="display">
+                <input type="text" id="result" value="" disabled/>
+            </div>
+            <div class="buttons">
+                <button onclick="clearDisplay()">C</button>
+                <button onclick="deleteChar()">DEL</button>
+                <button onclick="append('%')">%</button>
+                <button onclick="append('/')">/</button>
+                <button onclick="append('7')">7</button>
+                <button onclick="append('8')">8</button>
+                <button onclick="append('9')">9</button>
+                <button onclick="append('*')">*</button>
+                <button onclick="append('4')">4</button>
+                <button onclick="append('5')">5</button>
+                <button onclick="append('6')">6</button>
+                <button onclick="append('-')">-</button>
+                <button onclick="append('1')">1</button>
+                <button onclick="append('2')">2</button>
+                <button onclick="append('3')">3</button>
+                <button onclick="append('+')">+</button>
+                <button onclick="append('0')">0</button>
+                <button onclick="append('.')">.</button>
+                <button onclick="calculate()">=</button>
+                <button onclick="sqrt()">√</button>
+                <button onclick="square()">x²</button>
+                <button onclick="inverse()">1/x</button>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seershika's Calci</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="calculator-container">
+        <h1>Seershika's Calci</h1>
+        <div class="calculator">
+            <div class="display">
+                <input type="text" id="result" value="" disabled/>
+            </div>
+            <div class="buttons">
+                <button onclick="clearDisplay()">C</button>
+                <button onclick="deleteChar()">DEL</button>
+                <button onclick="append('%')">%</button>
+                <button onclick="append('/')">/</button>
+                <button onclick="append('7')">7</button>
+                <button onclick="append('8')">8</button>
+                <button onclick="append('9')">9</button>
+                <button onclick="append('*')">*</button>
+                <button onclick="append('4')">4</button>
+                <button onclick="append('5')">5</button>
+                <button onclick="append('6')">6</button>
+                <button onclick="append('-')">-</button>
+                <button onclick="append('1')">1</button>
+                <button onclick="append('2')">2</button>
+                <button onclick="append('3')">3</button>
+                <button onclick="append('+')">+</button>
+                <button onclick="append('0')">0</button>
+                <button onclick="append('.')">.</button>
+                <button onclick="calculate()">=</button>
+                <button onclick="sqrt()">√</button>
+                <button onclick="square()">x²</button>
+                <button onclick="inverse()">1/x</button>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, lightpink, lightblue);
+}
+
+.calculator-container {
+    text-align: center;
+    color: black;
+    animation: fadeIn 2s ease-in-out;
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-size: 2.5em;
+    animation: slideIn 1s ease-in-out;
+}
+
+.calculator {
+    width: 320px;
+    background-color: #333;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    overflow: hidden;
+    animation: popIn 0.5s ease-in-out;
+}
+
+.display {
+    background-color: #222;
+    color: #fff;
+    text-align: right;
+    padding: 20px;
+    font-size: 2em;
+    border-bottom: 1px solid #444;
+}
+
+.display input {
+    width: 100%;
+    background: none;
+    border: none;
+    color: #fff;
+    text-align: right;
+    font-size: 2em;
+    padding: 0;
+    margin: 0;
+}
+
+.buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1px;
+}
+
+button {
+    width: 100%;
+    padding: 20px;
+    background-color: #444;
+    border: none;
+    font-size: 1.2em;
+    color: #fff;
+    transition: background-color 0.3s, transform 0.1s;
+    cursor: pointer;
+    outline: none;
+}
+
+button:hover {
+    background-color: #555;
+}
+
+button:active {
+    background-color: #666;
+    transform: scale(0.95);
+}
+
+button:nth-child(4n),
+button:nth-child(18),
+button:nth-child(19),
+button:nth-child(20) {
+    background-color: #f0ad4e;
+    color: #fff;
+}
+
+button:nth-child(4n):hover,
+button:nth-child(18):hover,
+button:nth-child(19):hover,
+button:nth-child(20):hover {
+    background-color: #ec971f;
+}
+
+button:nth-child(4n):active,
+button:nth-child(18):active,
+button:nth-child(19):active,
+button:nth-child(20):active {
+    background-color: #d58512;
+}
+
+button:nth-child(17) {
+    grid-column: span 2;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes slideIn {
+    from {
+        transform: translateY(-50px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+@keyframes popIn {
+    from {
+        transform: scale(0.5);
+        opacity: 0;
+    }
+    to {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+let display = document.getElementById('result');
+
+function append(char) {
+    display.value += char;
+}
+
+function clearDisplay() {
+    display.value = '';
+}
+
+function deleteChar() {
+    display.value = display.value.slice(0, -1);
+}
+
+function calculate() {
+    try {
+        display.value = eval(display.value);
+    } catch (e) {
+        display.value = 'Error';
+    }
+}
+
+function sqrt() {
+    try {
+        display.value = Math.sqrt(eval(display.value));
+    } catch (e) {
+        display.value = 'Error';
+    }
+}
+
+function square() {
+    try {
+        display.value = Math.pow(eval(display.value), 2);
+    } catch (e) {
+        display.value = 'Error';
+    }
+}
+
+function inverse() {
+    try {
+        display.value = 1 / eval(display.value);
+    } catch (e) {
+        display.value = 'Error';
+    }
+}
